@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey there, fellow  👋
 
-<!--
-**MogboPython/MogboPython** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Welcome to my page, I'm a self taught Python programmer, who is also on the journey of becoming an App Developer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my portfolio.
+- 🌱 I’m currently learning Flutter.
+- 👯 I’m looking to collaborate on Open source Python Projects and very soon App Development Projects.
+- 💬 Ask me about anything, I'll be happy to help.
+- 📫 How to reach me: [Twitter](https://twitter.com/mogbo18)
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I Love playing FIFA and games generally.
+
