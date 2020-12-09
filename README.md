@@ -1,4 +1,4 @@
-### Hey there, fellow  👋
+### Hey there Friends 👋
 
 
 Welcome to my page, I'm a self taught Python programmer, who is also on the journey of becoming an App Developer:
