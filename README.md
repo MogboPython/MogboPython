@@ -9,5 +9,5 @@ Welcome to my page, I'm a self taught Python programmer, who is also on the jour
 - 💬 Ask me about anything, I'll be happy to help.
 - 📫 How to reach me: [Twitter](https://twitter.com/mogbo18)
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I Love playing FIFA and games generally.
+- ⚡ Fun fact: I Love playing FIFA and games generally. Ich spreche zu Deutsche 😄.
 
